@@ -42,7 +42,7 @@ export default function Home() {
                   to="/about" 
                   className="bg-gray-700 text-white px-6 py-3 rounded-lg font-semibold hover:bg-gray-800 transition shadow-lg"
                 >
-                  About Us
+                  About
                 </Link>
               </div>
             </div>
